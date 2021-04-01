@@ -1,0 +1,8 @@
+version 0.3
+1выстрелы
+2шары
+3движение шаров
+4кнопки upgrade for pushka
+5upgrate
+6firearm
+7firearm upgrade
