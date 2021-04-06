@@ -6,3 +6,4 @@ version 0.3
 5upgrate
 6firearm
 7firearm upgrade
+8при нажатия esc ставить игру на паузу
