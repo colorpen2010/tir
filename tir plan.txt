@@ -1,9 +1,8 @@
 version 0.3
-1выстрелы
-2шары
-3движение шаров
-4кнопки upgrade for pushka
-5upgrate
-6firearm
-7firearm upgrade
-8при нажатия esc ставить игру на паузу
+1шары
+2движение шаров
+3кнопки upgrade for pushka
+4upgrate
+5firearm
+6firearm upgrade
+7при нажатия esc ставить игру на паузу
