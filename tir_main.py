@@ -28,8 +28,8 @@ def add_bullet():
     all_bullet.append(bullet)
 
 @wrap_py.on_key_down(wrap_py.K_b)
-def add_bullet():
-    ball= sprite.add_sprite('misc',0+1,0+1)
+def add_ball():
+    ball= sprite.add_sprite('misc',0,0)
     all_ball.append(ball)
 
 @wrap_py.always
@@ -37,7 +37,7 @@ def move_ball():
     for b in all_ball:
         x=sprite.get_sprite_x(b)
         y=sprite.get_sprite_y(b)
-        sprite.move_sprite_to(b,x+1,y+1)
+        sprite.move_sprite_to(b,x+10,y+10)
 
 @wrap_py.always
 def shof_bullet():
